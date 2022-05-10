@@ -1,0 +1,11 @@
+li{
+    width:300px;
+    cursor: pointer;
+}
+.itemBox{
+    display:flex;
+    justify-content: space-between;
+}
+.itemText{
+    text-decoration: line-through;
+}
